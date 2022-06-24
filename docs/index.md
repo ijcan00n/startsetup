@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# IJ Start Canon Setup : Canon IJ Printer Setup 
 
-You can use the [editor on GitHub](https://github.com/ijcan00n/startsetup/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[![canon.com/ijsetup](now-button-image.png)](/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The **Ij.start.canon** is all about driver installation, connections, and printout. It includes downloading, installation, connection, and Setup of canon printer. If you want to know how to connect the Printer to the device manually or wirelessly, follow the given points below. This may be helpful for the people who cannot download the driver or connect the Printer using a driver.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## IJ.Start.Cannon | IJ Canon Printer Setup | Canon.com/ijsetup
+The prints from this Ij Start Canon Setup Printer are natural and clear. You will not be able to identify the original picture and the canon printer's print. It has the maximum speed of printing that is 10 to 20 prints in a minute. Even color and black and white color tanks are available in canon printers. So, if you are new on canon or you have newly brought the canon printer, then follow the instructions and steps given below.
 
-# Header 1
-## Header 2
-### Header 3
+## Ij.start.canon Setup Process
+The Ij.start.canon Setup is about the driver or software of the canon printer. Downloading the driver makes it easy to connect the device and print any picture by sitting at any house corner. The steps under Ij setup are given below;
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Download and Install canon printer driver.
+To set up the whole printer device.
+Connect canon printer wirelessly or manually.
+Connect the driver to Printer.
+Take a trial printout.
 
-**Bold** and _Italic_ and `Code` text
+## Instructions to arrange the Ij.start.canon setup for various devices wirelessly/manually:-
+We can connect the canon printers to the Windows system, Mac system, Android smartphone, etc. So follow the steps below to arrange the canon printer setup for various devices;
 
-[Link](url) and ![Image](src)
-```
+### Instructions to arrange/connect canon printer to windows device wirelessly:-
+Follow the instructions below;
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+canon ij setup
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ijcan00n/startsetup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Turn on your Printer and Windows device.
+Then on the printer control pane and screen, press the Setup button.
+Then the Setup will display on the printer screen.
+After that, press the Ok button if you see the Wireless LAN setup.
+Then in wireless LAN setup, take the arrow to the Other setup option.
+And then press the Ok button.
+In another Setup, take the arrow to the Cable less setup option.
+And then press the Ok button.
+Then you will see the instructions on the printer screen.
+On the other side of the windows device, download and install the driver.
+Then open the driver and click on Add device option.
+Then the device will be available.
+Click on the device to add the device.
+That's it the connection of Ij.start.canon printer device is wirelessly is successful.
